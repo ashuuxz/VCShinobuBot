@@ -1,6 +1,6 @@
 {
-    "name": "Video Streaming Bot",
-    "description": "Telegram bot for streaming video in groups",
+    "name": "Zenitsu Agatsumi",
+    "description": "Am Zenitsu Agatsumi Your Slayer Friend 💀",
     "keywords": ["telegram", "python", "video", "bot"],
     "repository": "https://github.com/Vegetaxd/VideoStreamBot",
     "env": {
